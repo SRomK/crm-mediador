@@ -1,0 +1,76 @@
+{
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "noResults": "Sin resultados",
+    "confirm": "Confirmar",
+    "back": "Volver",
+    "actions": "Acciones",
+    "status": "Estado"
+  },
+  "nav": {
+    "dashboard": "Inicio",
+    "clients": "Clientes",
+    "agenda": "Agenda",
+    "kanban": "Tareas",
+    "logout": "Cerrar sesión"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "loginError": "Credenciales incorrectas",
+    "loginButton": "Entrar"
+  },
+  "dashboard": {
+    "title": "Panel principal",
+    "totalClients": "Total clientes",
+    "upcomingAppointments": "Próximas citas",
+    "pendingTasks": "Tareas pendientes"
+  },
+  "clients": {
+    "title": "Clientes",
+    "newClient": "Nuevo cliente",
+    "name": "Nombre",
+    "email": "Email",
+    "phone": "Teléfono",
+    "status": {
+      "active": "Activo",
+      "inactive": "Inactivo",
+      "prospect": "Prospecto"
+    },
+    "deleteConfirm": "¿Estás seguro de que deseas eliminar este cliente?"
+  },
+  "agenda": {
+    "title": "Agenda",
+    "newAppointment": "Nueva cita",
+    "appointmentTitle": "Título",
+    "date": "Fecha",
+    "duration": "Duración (min)",
+    "type": {
+      "meeting": "Reunión",
+      "call": "Llamada",
+      "reminder": "Recordatorio"
+    }
+  },
+  "kanban": {
+    "title": "Tareas",
+    "newTask": "Nueva tarea",
+    "priority": {
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta"
+    },
+    "columns": {
+      "todo": "Por hacer",
+      "in-progress": "En progreso",
+      "review": "En revisión",
+      "done": "Hecho"
+    }
+  }
+}

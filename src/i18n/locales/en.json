@@ -1,0 +1,76 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "loading": "Loading...",
+    "noResults": "No results",
+    "confirm": "Confirm",
+    "back": "Back",
+    "actions": "Actions",
+    "status": "Status"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "clients": "Clients",
+    "agenda": "Agenda",
+    "kanban": "Tasks",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "loginError": "Invalid credentials",
+    "loginButton": "Sign in"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalClients": "Total clients",
+    "upcomingAppointments": "Upcoming appointments",
+    "pendingTasks": "Pending tasks"
+  },
+  "clients": {
+    "title": "Clients",
+    "newClient": "New client",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "prospect": "Prospect"
+    },
+    "deleteConfirm": "Are you sure you want to delete this client?"
+  },
+  "agenda": {
+    "title": "Agenda",
+    "newAppointment": "New appointment",
+    "appointmentTitle": "Title",
+    "date": "Date",
+    "duration": "Duration (min)",
+    "type": {
+      "meeting": "Meeting",
+      "call": "Call",
+      "reminder": "Reminder"
+    }
+  },
+  "kanban": {
+    "title": "Tasks",
+    "newTask": "New task",
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "columns": {
+      "todo": "To do",
+      "in-progress": "In progress",
+      "review": "In review",
+      "done": "Done"
+    }
+  }
+}
